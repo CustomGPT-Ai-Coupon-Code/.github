@@ -2,10 +2,10 @@
 In today’s fast-moving AI world, businesses and individuals crave personalized solutions that adapt to their exact needs. This is where **CustomGPT AI** steps in as a game-changer. Whether you’re a startup, an entrepreneur, or a content creator, CustomGPT AI empowers you to design your own powerful AI chatbot — tailored to your data, your tone, and your audience — all without any coding skills required.
 
 ## 🎯 What is CustomGPT AI?
+nts using your unique content. Instead of relying on generic, pre-trained models, you can upload your files, website content, FAQs, PDFs, and more. The AI then trains on your material, ensuring accurate, on-brand, and contextually relevant responses for your customers or audience.
 
-**CustomGPT AI** is an advanced platform that lets you create your own GPT-based AI assistants using your unique content. Instead of relying on generic, pre-trained models, you can upload your files, website content, FAQs, PDFs, and more. The AI then trains on your material, ensuring accurate, on-brand, and contextually relevant responses for your customers or audience.
-
-In essence, CustomGPT turns **OpenAI’s cutting-edge GPT technology** into a fully customized solution for your business.
+In essence, CustomGPT turns **OpenAI’s
+**CustomGPT AI** is an advanced platform that lets you create your own GPT-based AI assista cutting-edge GPT technology** into a fully customized solution for your business.
 
 ---
 
@@ -18,7 +18,7 @@ You don’t need to be a developer to build an AI chatbot with CustomGPT. The us
 Your data stays private. CustomGPT ensures that your proprietary information is secure and used solely to train your bot.
 
 **3. Multi-Channel Deployment**
-Deploy your AI anywhere: your website, customer support portal, live chat, or even integrate it into your mobile apps.
+Deploy your AI anywhere: your website, customer spport portal, live chat, or even integrate it into your mobile apps.
 
 **4. API & Integration Ready**
 Need more advanced capabilities? Developers can still access robust API endpoints to embed your custom AI into any workflow.
